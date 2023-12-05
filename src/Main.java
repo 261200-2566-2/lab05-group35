@@ -23,4 +23,5 @@ public class Main {
         assassin.attack(assassinTarget);
         assassinTarget.showStats();
     }
+
 }
